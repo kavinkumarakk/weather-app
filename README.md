@@ -1,6 +1,2 @@
-Watch it on youtube now...
-https://www.youtube.com/watch?v=eEol4dyNQnU
+weather app
 
-Project view...
-
-# weather![Slide_1](https://user-images.githubusercontent.com/68517660/177348931-9d15bac7-14bb-4cdb-838a-26455f18d3fc.jpg)
